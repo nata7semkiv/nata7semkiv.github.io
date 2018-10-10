@@ -1,0 +1,17 @@
+
+
+.child{
+	height: 50px;
+	width: 45%;
+	display:inline-block;	
+	background-color: red;
+}
+.parent{
+	height: 50px;
+	margin-left: 45%;
+	background-color: green;
+}
+.inline{
+	background-color: blue;
+
+}
